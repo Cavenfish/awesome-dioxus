@@ -334,6 +334,17 @@
         "link": "https://dioxus-material-lookbook.netlify.app"
     },
     {
+        "name": "KeyCompute",
+        "description": "KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "aiqubits",
+            "repo": "https://github.com/aiqubits/keycompute"
+        },
+        "link": "https://github.com/aiqubits/keycompute"
+    },    
+    {
         "name": "Uplink",
         "description": "Secure, encrypted, P2P chat app.",
         "type": "MadeWith",
