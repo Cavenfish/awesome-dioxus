@@ -1,5 +1,16 @@
 [
     {
+        "name": "Xmes",
+        "description": "Xmes is an open-source decentralized messenger built on XMTP. No app store, no signup, no central server, no phone number.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "floscodes",
+            "repo": "xmes"
+        },
+        "link": "https://xmes.org"
+    },
+    {
         "name": "Lumen Blocks",
         "description": "A Tailwind-styled components library for Dioxus, inspired by the shadcn/ui project and built on top of the Dioxus Primitives unstyled components library.",
         "type": "Awesome",
